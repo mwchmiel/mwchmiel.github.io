@@ -1,5 +1,10 @@
-title: Minimal theme
-description: Minimal is a theme for GitHub Pages.
+title: Matthew Chmielewski
+description: <p>Ph.D. Candidate</p> <p>Portland State University</p> <p>Department of Biology</p> <p>Center for Life in Extreme Environments</p>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+pages_list:       
+  "Home": "/"
+  "Research": "/research"
+  "Teaching": "/teaching"
+  "CV": "/cv"
