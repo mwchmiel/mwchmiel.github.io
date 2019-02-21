@@ -43,6 +43,6 @@ My interest in dispersal ecology ultimately stemmed from the literature in metac
 I've maintained an interest in metacommunity theory. As part of a Fulbright fellowship in Chile, I studied the bryophyte communities in relict patches of fog-maintained Valdivian
 forest in Parque Nacional Bosque Fray Jorge in order to determine how metacommunity structure varies with vertical stratification and variation in spatial scale. 
 
-<img src="./images/fray jorge 2.jpg" width="500">
+<img src="./images/fj2.jpg" width="500">
 
 *Patches of forest maintained by fog-deposition surrounded by a relatively arid matrix*
