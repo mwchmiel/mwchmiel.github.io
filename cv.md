@@ -6,6 +6,7 @@ layout: default
 ------
 **Ph.D. Candidate**   
 **Portland State University Department of Biology**<br>
+**Center for Life in Extreme Environments**<br>
 **1719 SW 10th Avenue Room 246, Portland, OR 97201**<br>
 **phone: (774) 249-0210**<br>
 **email: chmiel@pdx.edu**<br>
@@ -13,7 +14,7 @@ layout: default
 ------
 <h2>Education</h2>
 ------                                                                                                                                                     
-Ph.D., Biology 2019 (expected). **Portland State University.** Portland, OR.<br>
+Ph.D., Biology 2019 (expected May). **Portland State University.** Portland, OR.<br>
 
 M.A., Biology 2008. **Clark University.** Worcester, MA.  
 
@@ -22,9 +23,12 @@ B.A., Biology, Environmental Science and Policy 2004. **Clark University.** Worc
 ------
 <h2>Academic and Education Appointments</h2>                                                                                                                          
 ------
-**Adjunct Professor.** 2018. Portland Community College. Portland, OR <br>
+**Adjunct Professor.** 2018-current. Portland Community College. Portland, OR <br>
 >Courses Taught:<br>
+BI 231: Human Anatomy and Physiology I Lecture & Lab **Instructor of Record**<br>
+BI 232: Human Anatomy and Physiology II Lab<br>
 BI 233: Human Anatomy and Physiology III Lab<br>
+
 <br>
 
 **Teaching Assistant.** 2011-current. Portland State University. Portland, OR <br>
@@ -36,9 +40,9 @@ BI 206 Fundamentals of Biology III Lab (2 years)<br>
 BI 251 Principles of Biology I Lab (2 years)<br>
 BI 252 Principles of Biology II Lab (2 years)<br>
 BI 253 Principles of Biology III Lab (2 years)<br>
-BI 301 Human Anatomy and Physiology I Lab (4 years, lead TA 2 years) 
-BI 302 Human Anatomy and Physiology II Lab (4 years, lead TA 2 years)
-BI 303 Human Anatomy and Physiology III Lab (4 years, lead TA 2 years)    
+BI 301 Human Anatomy and Physiology I Lab (5 years, lead TA 2 years) <br>
+BI 302 Human Anatomy and Physiology II Lab (5 years, lead TA 2 years) <br>
+BI 303 Human Anatomy and Physiology III Lab (5 years, lead TA 2 years) <br> 
 BI 399 Human Anatomy Dissection Technician (1 year)<br>
 BI 471/571 Plant Ecology (1 year)<br>
 BI 473/573 Field Sampling (1 year)<br>
@@ -81,9 +85,9 @@ BI 473/573 Field Sampling (1 year)<br>
 ------
 <h2>Publications</h2>                                                                                                                                    
 ------
-**Chmielewski, M.W.**, Eppley, S.M. Birds as a novel dispersal vector of viable bryophyte propagules. In review. <br>
+**Chmielewski, M.W.**, 2019. Eppley, S.M. Forest passerines as a novel dispersal vector of viable bryophyte propagules, Proceedings of the Royal Academy of Sciences B. 286(1897)<br>
 <br>
-Eppley, S.M., Rosenstiel, T.N., **Chmielewski, M.W.**, Woll, S.C., Shaw, Z.M., Shortlidge, E.E. Rapid population sex ratio changes in the moss *Ceratodon purpureus*. American Journal of Botany. In Press. <br>
+Eppley, S.M., Rosenstiel, T.N., **Chmielewski, M.W.**, Woll, S.C., Shaw, Z.M., Shortlidge, E.E. 2018. Rapid population sex ratio changes in the moss *Ceratodon purpureus*. American Journal of Botany. 105(7): 1232-1238 <br>
 <br>
 **Chmielewski, M.W.**, Khatchikian, C., Livdahl, T. 2010 Estimating the per Capita Rate of Population Change: How Well Do Life-History Surrogates Perform? Annals of the Entomological Society of America 103(5): 734-741<br>
 <br>
@@ -109,6 +113,7 @@ Eppley, S.M., Rosenstiel, T.N., **Chmielewski, M.W.**, Woll, S.C., Shaw, Z.M., S
 ------
 <h2>Academic Presentations:</h2>    
 ------
+**Chmielewski, M.W.** 2018 Species-specific interactions in bryophyte-avian dispersal networks. Annual Meeting of the Ecological Society of America. Portland, OR<br>
 
 **Chmielewski, M.W.** 2017 Bryophytes on the Wing: Avian topical load of bryophyte spores varies by size and behavior. Annual Meeting of the Ecological Society of America. Portland, OR<br>
 
@@ -125,8 +130,9 @@ Eppley, S.M., Rosenstiel, T.N., **Chmielewski, M.W.**, Woll, S.C., Shaw, Z.M., S
 ------
 <h2>Invited Talks:</h2>  
 ------
+**Wellness in Your Professional Life** 2018. Office of Academic Innovation Fall Mini-Conference. Portland State University. Portland, OR
 
-**Classroom engagement, student interactions, and time management** 2017. Office of Academic Innovation. Portland State University. Portland, OR
+**Classroom engagement, student interactions, and time management** 2017. Office of Academic Innovation Winter Mini-Conference. Portland State University. Portland, OR
 
 **Career management, skill acquisition, and CV building in graduate school.** 2017. Graduate Research Prospectus. Portland State University Department of Biology. Portland, OR 
 
@@ -142,7 +148,7 @@ Eppley, S.M., Rosenstiel, T.N., **Chmielewski, M.W.**, Woll, S.C., Shaw, Z.M., S
 
 **Contributing Writer: Graduate Student Handbook.** 2018. Office of Academic Innovation. Portland State University.   
 
-**Advisory Panel for Program Development: Certificate in College Teaching.** 2017-current. Office of Academic Innovation & Office of the Associate Dean of Research and Graduate Programs. Portland State University. Portland, OR.
+**Advisory Panel for Program Development: Certificate in College Teaching.** 2017-2018. Office of Academic Innovation & Office of the Associate Dean of Research and Graduate Programs. Portland State University. Portland, OR.
 
 **LSAMP Scholarship and Grant Workshop Mentor.** 2017. Louis Stokes Alliance for Minority Participation. Portland State University. Portland, OR.  
 
@@ -159,7 +165,7 @@ Eppley, S.M., Rosenstiel, T.N., **Chmielewski, M.W.**, Woll, S.C., Shaw, Z.M., S
 ------
 <h2>People Mentored</h2>   
 
-**Jessica Shamek:** Field Technician with the Great Basin Institute, Mcnair Scholar, PhD Student (Fall 2018) at Portland State University   
+**Jessica Shamek:** Field Technician with the Great Basin Institute, Mcnair Scholar, Current PhD Student at Portland State University   
 
 **Cammille Mitchell:** Field Technician with the Oregon Department of Fish and Wildlife   
 
