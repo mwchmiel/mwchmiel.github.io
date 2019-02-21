@@ -15,11 +15,11 @@ may be, and whether particular avian characteristic impact spore loads. I've fou
 positively with bird size, and that foraging behavior and species of birds influence the number of spores found on bird surfaces.</a>
 
  
-<img src="./images/spore to tarsal.png" width="500"> 
+<img src="./images/spore to tarsal.jpg" width="500"> 
 
 *Bryophyte spore counts correlate positively with bird body size*
 
-<img src="./images/behavior spores.png" width="500">
+<img src="./images/behavior spores.jpg" width="500">
 
 *Bryophyte spore load varies with avian foraging behaviors*
 
