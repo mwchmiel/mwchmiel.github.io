@@ -44,7 +44,7 @@ BI 301 Human Anatomy and Physiology I Lab (5 years, lead TA 2 years) <br>
 BI 302 Human Anatomy and Physiology II Lab (5 years, lead TA 2 years) <br>
 BI 303 Human Anatomy and Physiology III Lab (5 years, lead TA 2 years) <br> 
 BI 399 Human Anatomy Dissection Technician (1 year)<br>
-BI 471/571 Plant Ecology (1 year)<br>
+BI 471/571 Plant Ecology (2 years)<br>
 BI 473/573 Field Sampling (1 year)<br>
 <br>
 	Course Field Support:   <br>	
@@ -85,7 +85,9 @@ BI 473/573 Field Sampling (1 year)<br>
 ------
 <h2>Publications</h2>                                                                                                                                    
 ------
-**Chmielewski, M.W.**, 2019. Eppley, S.M. Forest passerines as a novel dispersal vector of viable bryophyte propagules, Proceedings of the Royal Academy of Sciences B. 286(1897)<br>
+Prather, H., Casanova-Katny, A., Clements, A., **Chmielewski, M.W.**, Balkan, M., Shortlidge, E., Rosenstiel, T., Eppley, S.M. *In Review* Species-specific effects of warming across trophic levels in an Antarctic moss system on King George Island, Antarctica. Global Change Biology <br>
+<br>
+**Chmielewski, M.W.**, 2019. Eppley, S.M. Forest passerines as a novel dispersal vector of viable bryophyte propagules. Proceedings of the Royal Academy of Sciences B. 286(1897)<br>
 <br>
 Eppley, S.M., Rosenstiel, T.N., **Chmielewski, M.W.**, Woll, S.C., Shaw, Z.M., Shortlidge, E.E. 2018. Rapid population sex ratio changes in the moss *Ceratodon purpureus*. American Journal of Botany. 105(7): 1232-1238 <br>
 <br>
@@ -113,6 +115,8 @@ Eppley, S.M., Rosenstiel, T.N., **Chmielewski, M.W.**, Woll, S.C., Shaw, Z.M., S
 ------
 <h2>Academic Presentations:</h2>    
 ------
+**Chmielewski, M.W.** 2019 Forest passerines as a novel dispersal vector of viable bryophyte propagules. Graduate Student Research Symposium. Portland State University, Department of Biology. Portland, OR.<br>
+
 **Chmielewski, M.W.** 2018 Species-specific interactions in bryophyte-avian dispersal networks. Annual Meeting of the Ecological Society of America. Portland, OR<br>
 
 **Chmielewski, M.W.** 2017 Bryophytes on the Wing: Avian topical load of bryophyte spores varies by size and behavior. Annual Meeting of the Ecological Society of America. Portland, OR<br>
