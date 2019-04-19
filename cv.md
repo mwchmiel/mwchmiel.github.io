@@ -94,7 +94,7 @@ Eppley, S.M., Rosenstiel, T.N., **Chmielewski, M.W.**, Woll, S.C., Shaw, Z.M., S
 <br>
 *In Review* <br>
 <br>
-Prather, H., Casanova-Katny, A., Clements, A., **Chmielewski, M.W.**, Balkan, M., Shortlidge, E., Rosenstiel, T., Eppley, S.M. Species-specific effects of warming across trophic levels in an Antarctic moss system on King George Island, Antarctica. Global Change Biology <br>
+Prather, H., Casanova-Katny, A., Clements, A., **Chmielewski, M.W.**, Balkan, M., Shortlidge, E., Rosenstiel, T., Eppley, S.M. Species-specific effects of passive warming in an Antarctic moss system. Royal Society Open Science <br>
 
 ------
 <h2>Research Appointments</h2>                                                                                                                                                  
