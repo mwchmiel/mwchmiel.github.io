@@ -171,13 +171,13 @@ Prather, H., Casanova-Katny, A., Clements, A., **Chmielewski, M.W.**, Balkan, M.
 ------
 <h2>People Mentored</h2>   
 
-**Jessica Shamek:** Field Technician with the Great Basin Institute, Mcnair Scholar, Current PhD Student at Portland State University   
+**Jessica Shamek:** PhD Student at Portland State University, Mcnair Scholar, NSF GRFP Recipient  
 
 **Cammille Mitchell:** Field Technician with the Oregon Department of Fish and Wildlife   
 
 **Ariadna Covarrubias-Ornelas:** Louis Stokes Alliance for Minority Participation, Oregon Health Sciences University Summer Equity Internship Program, NSF REU 2017 University of Michigan.   
 
-**Sara Herrejon Chavez:** Louis Stokes Alliance for Minority Participation, NIH BUILD EXITO Scholar   
+**Sara Herrejon Chavez:** Louis Stokes Alliance for Minority Participation, NIH BUILD EXITO Scholar, NSF REU Student   
 
 **Samantha Martin**   
 
