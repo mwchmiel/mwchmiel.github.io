@@ -1,6 +1,4 @@
----
-layout: default
----
+
 ------
 <h2>Matthew W. Chmielewski</h2>
 ------
