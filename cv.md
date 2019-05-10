@@ -147,16 +147,20 @@ Prather, H., Casanova-Katny, A., Clements, A., **Chmielewski, M.W.**, Balkan, M.
 **Abundancia, diversidad, y estructura de metacomunidades de briofitas** 2015. Parque Nacional Bosque Fray Jorge Ranger Station. Chile
 
 ------
-<h2>Service:</h2>
+<h2>Service and Outreach:</h2>
 ------
 
-**Contributing Writer: Graduate Student Handbook.** 2018. Office of Academic Innovation. Portland State University.   
+**Contributing Writer: Graduate Student Handbook.** 2018. Office of Academic Innovation. Portland State University. Portland, OR 
 
 **Advisory Panel for Program Development: Certificate in College Teaching.** 2017-2018. Office of Academic Innovation & Office of the Associate Dean of Research and Graduate Programs. Portland State University. Portland, OR.
 
 **LSAMP Scholarship and Grant Workshop Mentor.** 2017. Louis Stokes Alliance for Minority Participation. Portland State University. Portland, OR.  
 
 **Planting Science High School Classroom Mentor.** 2017-current. plantingscience.org
+
+**Outreach Volunteer** 2017 Oregon Museum of Science and Industry: After Dark Outreach Program. Portland, OR
+
+**Outreach Volunteer** 2016-2019 Natural History Museum Open House. Department of Biology. Portland State University. Portland, Oregon
 
 **Nonprofit Board Member.** 2009-2014. Reserve Management and Intercultural Exchange Program. Aula Global/Global Classroom. Littleton, MA.
 
