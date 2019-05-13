@@ -129,7 +129,7 @@ Prather, H., Casanova-Katny, A., Clements, A., **Chmielewski, M.W.**, Balkan, M.
 
 **Chmielewski, M.W.** 2004 Diel Transcript Abundance of Nitrate Reductase and Nitrite Reductase in the Marine Diatom Thalassiosira psuedonana. Academic Spree Day. Clark University.<br>
 
-**Chmielewski, M.W.** 2003 Explorations in Atlantic Shoreline Ecology: A web resource for primary and secondary education students. http://www.clarku.edu/departments/biology/biol201/mchmielewski/ Academic Spree Day. Clark University<br>
+**Chmielewski, M.W.** 2003 Explorations in Atlantic Shoreline Ecology: A web resource for primary and secondary education students. [http://www.clarku.edu/departments/biology/biol201/mchmielewski/] Academic Spree Day. Clark University<br>
 
 ------
 <h2>Invited Talks:</h2>  
