@@ -67,7 +67,7 @@ BI 233: Human Anatomy and Physiology III Lab<br>
 
 **Assessment of My Teaching**<br>
 
-Video Teaching Consultation 
+Video Teaching Consultation [test](/ChmielewskiTIP1.pdf)
 
 **Role of CICT in My Future Career**<br>
 
