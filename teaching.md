@@ -65,7 +65,6 @@ BI 233: Human Anatomy and Physiology III Lab<br>
 
 **Assessment and Evaluation of Student Learning**<br>
 
-Video Teaching Assessments [Human A&P](/Chmielewski TIP1.docx)
 
 **Assessment of My Teaching**<br>
 
