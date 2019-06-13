@@ -70,12 +70,16 @@ BI 233: Human Anatomy and Physiology III Lab<br>
 I have been fortunate enough to be able to use the resources provided by the Biology Departments of both PSU and PCC, as well as PSU's Office of Academic Innovation to assess my teaching via multiple avenues.
 Here I provide a number of assessment products that reflect the continued process of thinking critically about my teaching.
 
+Video Teaching Consultations<br>
 [Video Teaching Consultation Improvement Plan Human Anatomy and Physiology](/ChmielewskiTIP1.pdf)<br>
 [Video Teaching Consultation Improvement Plan Plant Ecology](/ChmielewskiTIP2.pdf)
 
+Classroom Observations <br>
 [Human A&P Classroom Observation, Portland Community College](Chmielewski_observation_PCC.pdf)<br>
 [Human A&P Classroom Observation, Portland State University](Chmielewski_observation_PSU.pdf)<br>
 [Human A&P Classroom Observation Letter, Portland State University](Chmielewski_observationletter_PSU.pdf)<br>
+
+[Plant Ecology Mid-quarter Review](Chmielewski_midquarterreview_Spring2019.pdf)
 
 **Role of CICT in My Future Career**<br>
 
