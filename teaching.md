@@ -65,8 +65,9 @@ BI 233: Human Anatomy and Physiology III Lab<br>
 
 **Assessment and Evaluation of Student Learning**<br>
 
-
 **Assessment of My Teaching**<br>
+
+Video Teaching Consultation 
 
 **Role of CICT in My Future Career**<br>
 
