@@ -29,14 +29,14 @@ All of these activities are contextualized within an open syllabus, including a 
 
 
 
-**Equity and Inclusion**
+**Equity and Inclusion**<br>
 
 Diversity, whether it be gender, class, race, culture, ethnicity, or any other dimension of categorizing human identity and experience, serves to strengthen STEM fields by providing a range of ideas and working approaches that would be absent in a homogenous population. With the benefits of diversity, come some challenges in the classroom, as students approach academic material in various ways. In order to address these challenges, I rely on methodologies that have been shown to increase classroom equity. Using diverse human and ecosystem examples when creating materials, I try to address familiarity bias as well as provide relatable content for a variety of backgrounds. The activities themselves are also varied, including active learning methods that vary student roles, ensure broad participation, and involve open ended questions. Individuals that don’t come from an academic background may have a comparatively increased academic burden in understanding how to prioritize the learning process toward performance success. In addition, these students may not take advantage of soft learning opportunities such as office hours or open labs. I am therefore careful explicitly outline a path to success relative to a class rubric, and to be clear about fuzzy learning opportunities (open labs, office hours, etc.). In this manner, I hope to undermine cultural and class biases in the classroom.
 
 
 
-**Teaching Bibliography**
-
+**Teaching Bibliography**<br>
+<br>
 **Portland State University:**<br>
 BI 204 Fundamentals of Biology I Lab (2 years)<br>
 BI 205 Fundamentals of Biology II Lab (2 years)<br>
@@ -61,3 +61,12 @@ BI 231: Human Anatomy and Physiology I Lecture & Lab **Instructor of Record**<br
 BI 232: Human Anatomy and Physiology II Lab<br>
 BI 233: Human Anatomy and Physiology III Lab<br>
 
+**Innovation in College Teaching in Biology**<br>
+
+**Assessment and Evaluation of Student Learning**<br>
+
+**Assessment of My Teaching**<br>
+
+**Role of CICT in My Future Career**<br>
+
+**Academic Professional Development**<br>
