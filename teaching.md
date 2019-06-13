@@ -35,7 +35,7 @@ Diversity, whether it be gender, class, race, culture, ethnicity, or any other d
 
 
 
-**Teaching Bibliography**<br>
+**Teaching Experience**<br>
 <br>
 **Portland State University:**<br>
 BI 204 Fundamentals of Biology I Lab (2 years)<br>
@@ -79,8 +79,15 @@ Classroom Observations <br>
 [Human A&P Classroom Observation, Portland State University](Chmielewski_observation_PSU.pdf)<br>
 [Human A&P Classroom Observation Letter, Portland State University](Chmielewski_observationletter_PSU.pdf)<br>
 
+Mid-quarter Review
 [Plant Ecology Mid-quarter Review](Chmielewski_midquarterreview_Spring2019.pdf)
 
 **Role of CICT in My Future Career**<br>
+
+I intend to use the teaching and research skills that I have gained during my graduate career to continue teaching in a university setting. The CICT process has provided me with guidance toward
+making my classroom a more student-focused space. In addition, it has provided me with a theoretical framework and actionable tools in order to address issues of equity in the classroom. As the 
+culture and role of the college classroom continues to reflect changes related to advances in social equity, these tools will serve me well in adapting my teaching approach to better translate
+course design into meaningful student skill acquisition and domain knowledge.  
+
 
 **Academic Professional Development**<br>
