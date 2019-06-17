@@ -64,8 +64,19 @@ BI 233: Human Anatomy and Physiology III Lab<br>
 
 **Innovation in College Teaching in Biology**<br>
 
-Many students experience undergraduate biology as a sink-or-swim memorization and regurgitation of facts discipline. While the discipline-specific knowledge is vast and advancement of knowledge
-in the field requires an understanding of background concepts, application of scientifically-proven pedagogical techniques 
+I often hear people express that out of all of their coursework, undergraduate biology was their most frustrating and unrewarding experience. Upon inquiring further, the common response I receive is that
+the discipline is seen as largely comprised of the memorization of tedious facts for regurgitation on exams. This reflects a pedagogy that primarily engages in the lower levels of 
+<a href ="https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/">Bloom's Taxonomy of Educational Objectives </a> in asking students to remember and understand discipline-specific concepts. By 
+engaging higher order thinking, I ask students in my courses to regularly apply their knowledge and to analyze particular scenarios in the context of course objectives. In Human Anatomy and Physiology,
+one way I acheive this is by asking students to use their knowledge to analyze [case studies](/SkinandBone.pdf). In both Field Methods and Plant Ecology, students create knowledge by planning out field 
+sampling regimes, collecting data, and interpreting the data to produce data products and final, journal-style papers. 
+
+While these approaches have proven to be effective in eliciting more complex engagement with the course materials, I would like to improve upon them in future coursework in which I have more creative
+control as the instructor of record. In both Principles of Biology and Human A&P, I would like to formally demonstrate metacognitive concepts related to Bloom's Taxonomy, and then ask students to 
+create suites of study and practice questions that engage a variety levels of thinking. I would then like to draw from this question bank for summative assessments, making the classroom a more
+collaborative space. In upper division courses that focus on data collection and analysis, I plan to further engage student thinking by starting peer review of papers prior to a revision and 
+resubmission step. 
+
 
 **Assessment and Evaluation of Student Learning**<br>
 
@@ -100,7 +111,7 @@ Classroom Observations <br>
 [Human A&P Classroom Observation, Portland State University](Chmielewski_observation_PSU.pdf)<br>
 [Human A&P Classroom Observation Letter, Portland State University](Chmielewski_observationletter_PSU.pdf)<br>
 
-Mid-quarter Review
+Mid-quarter Review<br>
 [Plant Ecology Mid-quarter Review](Chmielewski_midquarterreview_Spring2019.pdf)
 
 **Role of CICT in My Future Career**<br>
