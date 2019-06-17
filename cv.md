@@ -1,6 +1,6 @@
 
 ------
-<h2>Matthew W. Chmielewski</h2>
+<h2>Matthew W. Chmielewski, Ph.D.</h2>
 ------
 **Ph.D. Candidate**   
 **Portland State University Department of Biology**<br>
@@ -13,7 +13,7 @@
 ------
 <h2>Education</h2>
 ------                                                                                                                                                     
-Ph.D., Biology 2019 (expected May). **Portland State University.** Portland, OR.<br>
+Ph.D., Biology 2019. **Portland State University.** Portland, OR.<br>
 
 M.A., Biology 2008. **Clark University.** Worcester, MA.  
 
