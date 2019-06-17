@@ -2,7 +2,8 @@
 layout: default
 ---
 
-**Introduction**<br>
+**Introduction**
+
 During the course of my graduate degree I had the opportunity to teach extensively, and have found it to be one of the most rewarding aspects of my graduate experience. 
 In order to enhance my abilities as teacher, I have completed a Certificate of Innovation in College Teaching (CICT). The goal of the CICT is to prepare educators to build a 
 teaching practice that incorporates best practices in higher education, includes research-driven innovation, and addresses questions of equity and access within academia. 
@@ -63,7 +64,8 @@ BI 233: Human Anatomy and Physiology III Lab<br>
 
 **Innovation in College Teaching in Biology**<br>
 
-
+Many students experience undergraduate biology as a sink-or-swim memorization and regurgitation of facts discipline. While the discipline-specific knowledge is vast and advancement of knowledge
+in the field requires an understanding of background concepts, application of scientifically-proven pedagogical techniques 
 
 **Assessment and Evaluation of Student Learning**<br>
 

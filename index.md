@@ -3,9 +3,8 @@ layout: default
 ---
 
 I'm a community ecologist focused on understanding how spatial processes influence community assembly, diversity, and function. 
-I focus on theory-driven questions which i address through a variety of approaches that include strong field work and natural history components. I'm currently 
-finishing my dissertation (May 2019)on avian-bryophyte dispersal networks in the <a href ="http://pdx.edu/biology">Department of Biology</a> at Portland State University, and 
-**am in search of the right fit for a postdoctoral opportunity.** 
+I focus on theory-driven questions which i address through a variety of approaches that include strong field work and natural history components. I have just finished my dissertation 
+on avian-bryophyte dispersal networks in the <a href ="http://pdx.edu/biology">Department of Biology</a> at Portland State University, and **am in search of the right fit for a postdoctoral opportunity.** 
 
 ![](/images/biter.jpg)
 
