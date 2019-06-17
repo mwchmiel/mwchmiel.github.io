@@ -37,7 +37,7 @@ Diversity, whether it be gender, class, race, culture, ethnicity, or any other d
 
 **Teaching Experience**<br>
 <br>
-**Portland State University:**<br>
+_Portland State University:_<br>
 BI 204 Fundamentals of Biology I Lab (2 years)<br>
 BI 205 Fundamentals of Biology II Lab (2 years)<br>
 BI 206 Fundamentals of Biology III Lab (2 years)<br>
@@ -55,7 +55,7 @@ BI 473/573 Field Sampling (1 year)<br>
 	BI 410 Bird Banding (1 year)<br>
 	BI 414 Ornithology (2 years)<br>
 	<br>
-**Portland Community College:**<br>
+_Portland Community College:_<br>
 <br>
 BI 231: Human Anatomy and Physiology I Lecture & Lab **Instructor of Record**<br>
 BI 232: Human Anatomy and Physiology II Lab<br>
@@ -63,7 +63,26 @@ BI 233: Human Anatomy and Physiology III Lab<br>
 
 **Innovation in College Teaching in Biology**<br>
 
+
+
 **Assessment and Evaluation of Student Learning**<br>
+
+My approach to student assessment varies somewhat with relation to the objectives of the course, and tends to fall into one of two categories. In subject content-heavy courses (Human Anatomy and Physiology),
+I take an approach that involves multiple low-stakes formative assessments. Quizzes are modeled after practical questions, and are limited in their indiviudal impact on grades. Lab tickets are exit
+assessments that are worth a few points for completion, and allow students to leave the classroom with an understanding of how their personal knowledge relates to course objectives. This framework 
+serves a dual role in that it allows me to gauge gaps in effective information transfer, as well as gives students the opportunity to reflect on their progress in learning the material. These allow 
+me to address common misconceptions, and can also open a door to conversations about metacongitive concepts around personal learning style with individual students. These conversations frequently 
+result in a student and I indentifying additional study approaches that they can add to their educational repertoire. 
+
+Summative assessments follow the format of formative assessments, but writ large. By covering a wide variety of course concepts, my summative assessments provide students with the opportunity
+to demonstrate knowledge drawn from many different course objectives. Alternately, in upper-division ecology courses (Plant Ecology, Field Methods), I typically run a project-based assessment model. 
+Here, formative assessment takes the form of group and invidividual work aimed at delineating the steps necessary toward producing a successful final product. Summative assessments involve student presentations
+as well as final papers that require students to engage with the higher levels of Bloom's Taxonomy in that they are producing original work reliant on data that they collect in the field. Students sumbit
+final research papers, which are then evaluated and returned to them. Follwing this, I encourage revision and resubmission, a process which not only provides students with the opportunity to examine areas 
+of personal improvement, but also directly reflects the manner in which scientists produce literature within their field. 
+
+Some examples of formative assessments include [quizzes](/A&P_quiz.pdf), [lab tickets](/A&P_ticket.pdf), and [data analysis asssingments](/PlantEcologyAssignment.pdf). <br>
+Summative assessments include practicals, as well as [research papers](/PlantEcologyPaper.pdf). 
 
 **Assessment of My Teaching**<br>
 
@@ -90,51 +109,30 @@ culture and role of the college classroom continues to reflect changes related t
 course design into meaningful student skill acquisition and domain knowledge.  
 
 
-**Academic Professional Development**<br>
+**Teaching-Related Professional Development**<br>
 
 *Conferences Hosted by the Office of Academic Innovation*
 
-Office of Academic Innovation Mini-Conference: Building Community In The 21st Century. January 19th 2019
-
-Office of Academic Innovation Mini-Conference: Wellness in Your Professional Life. September 21st, 2018. 
-
+Office of Academic Innovation Mini-Conference: Building Community In The 21st Century. January 19th 2019<br>
+Office of Academic Innovation Mini-Conference: Wellness in Your Professional Life. September 21st, 2018. <br>
 Office of Academic Innovation Mini-Conference: Graduate Teaching Assistant Professional Development Workshop September 20th, 2017
 
 *OAI Professional Development Workshops*
 
-Equity, Diversity, Inclusion: Microaggressions November 28th 2017 
-
-Building an E-portfolio November 19th 2017
-
+Equity, Diversity, Inclusion: Microaggressions November 28th 2017 <br>
+Building an E-portfolio November 19th 2017<br>
 Women in STEM Meeting: Imposter Syndrome November 2nd, 2017
 
 *Discipline-specific Pedagogy Training*
 
 Weekly TA Meetings:
 
-Principles of Biology: 3 hours x 10 weeks x 3 quarters x 2 years = 180 hours
+Principles of Biology: 3 hours x 10 weeks x 3 quarters x 2 years = 180 hours<br>
 Human Anatomy and Physiology: 3 hours x 10 weeks x 3 quarters x 5 years = 450 hours
 
 *Pedagogy-Focused Coursework*
 
 Scientific Teaching [(Syllabus)](Scientific Teaching_2017_Syllabus.pdf)
 
-Course Objectives:
-• Learn theories and research behind how people learn
-• Understand the concept and importance of scientific teaching
-• Work collaboratively and respectfully with peers
-• Read, evaluate and discuss discipline-based education research (DBER)
-• Summarize and critique education research papers (written communication)
-• Recognize and practice formative assessment
-• Practice and understand metacognition
-• Learn about student-centered teaching practices and the evidence that supports
-them
-• Observe classrooms and identify aspects of teaching and learning
-• Understand and develop backward/integrated curriculum design
-• Practice aligning assessments with learning goals
-• Develop and teach a teachable unit
-• Communicate science verbally
-• Evaluate peers’ teaching/curriculum development
-• Gain a new/modified approach to teaching and learning
 
 
