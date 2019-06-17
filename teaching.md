@@ -1,5 +1,4 @@
 
-
 **Introduction**
 
 During the course of my graduate degree I had the opportunity to teach extensively, and have found it to be one of the most rewarding aspects of my graduate experience. 
