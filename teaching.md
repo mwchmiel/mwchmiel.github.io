@@ -91,3 +91,50 @@ course design into meaningful student skill acquisition and domain knowledge.
 
 
 **Academic Professional Development**<br>
+
+*Conferences Hosted by the Office of Academic Innovation*
+
+Office of Academic Innovation Mini-Conference: Building Community In The 21st Century. January 19th 2019
+
+Office of Academic Innovation Mini-Conference: Wellness in Your Professional Life. September 21st, 2018. 
+
+Office of Academic Innovation Mini-Conference: Graduate Teaching Assistant Professional Development Workshop September 20th, 2017
+
+*OAI Professional Development Workshops*
+
+Equity, Diversity, Inclusion: Microaggressions November 28th 2017 
+
+Building an E-portfolio November 19th 2017
+
+Women in STEM Meeting: Imposter Syndrome November 2nd, 2017
+
+*Discipline-specific Pedagogy Training*
+
+Weekly TA Meetings:
+
+Principles of Biology: 3 hours x 10 weeks x 3 quarters x 2 years = 180 hours
+Human Anatomy and Physiology: 3 hours x 10 weeks x 3 quarters x 5 years = 450 hours
+
+*Pedagogy-Focused Coursework*
+
+Scientific Teaching [(Syllabus)](Scientific Teaching_2017_Syllabus.pdf)
+
+Course Objectives:
+• Learn theories and research behind how people learn
+• Understand the concept and importance of scientific teaching
+• Work collaboratively and respectfully with peers
+• Read, evaluate and discuss discipline-based education research (DBER)
+• Summarize and critique education research papers (written communication)
+• Recognize and practice formative assessment
+• Practice and understand metacognition
+• Learn about student-centered teaching practices and the evidence that supports
+them
+• Observe classrooms and identify aspects of teaching and learning
+• Understand and develop backward/integrated curriculum design
+• Practice aligning assessments with learning goals
+• Develop and teach a teachable unit
+• Communicate science verbally
+• Evaluate peers’ teaching/curriculum development
+• Gain a new/modified approach to teaching and learning
+
+
