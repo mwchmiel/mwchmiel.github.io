@@ -1,8 +1,7 @@
 
 ------
 <h2>Matthew W. Chmielewski, Ph.D.</h2>
-------
-**Ph.D. Candidate**   
+------   
 **Portland State University Department of Biology**<br>
 **Center for Life in Extreme Environments**<br>
 **1719 SW 10th Avenue Room 246, Portland, OR 97201**<br>
