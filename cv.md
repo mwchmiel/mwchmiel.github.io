@@ -14,7 +14,7 @@
 ------                                                                                                                                                     
 Ph.D., Biology 2019. **Portland State University.** Portland, OR.<br>
 
-Certificate of Innovation in College Teaching. **Portland State University**. Portland, OR. 
+Certificate of Innovation in College Teaching 2019.**Portland State University**. Portland, OR. 
 
 M.A., Biology 2008. **Clark University.** Worcester, MA.  
 
