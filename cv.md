@@ -117,6 +117,9 @@ Prather, H., Casanova-Katny, A., Clements, A., **Chmielewski, M.W.**, Balkan, M.
 ------
 <h2>Academic Presentations:</h2>    
 ------
+
+**Chmielewski, M.W.** 2019 Metacommunity Structure of epiphytic bryophytes in fog-maintained patches of relict Valdivian forest in North-Central Chile. Annual Meeting of the Botanical Society of America. Tucson, AZ.<br>
+
 **Chmielewski, M.W.** 2019 Forest passerines as a novel dispersal vector of viable bryophyte propagules. Graduate Student Research Symposium. Portland State University, Department of Biology. Portland, OR.<br>
 
 **Chmielewski, M.W.** 2018 Species-specific interactions in bryophyte-avian dispersal networks. Annual Meeting of the Ecological Society of America. Portland, OR<br>
@@ -136,6 +139,9 @@ Prather, H., Casanova-Katny, A., Clements, A., **Chmielewski, M.W.**, Balkan, M.
 ------
 <h2>Invited Talks:</h2>  
 ------
+
+**Avian Dispersal Networks and Metacommunity Structure in Bryophyte Assemblages** 2019. Reed College. Portland, OR
+
 **Wellness in Your Professional Life** 2018. Office of Academic Innovation Fall Mini-Conference. Portland State University. Portland, OR
 
 **Classroom engagement, student interactions, and time management** 2017. Office of Academic Innovation Winter Mini-Conference. Portland State University. Portland, OR
