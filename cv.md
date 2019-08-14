@@ -92,7 +92,7 @@ Eppley, S.M., Rosenstiel, T.N., **Chmielewski, M.W.**, Woll, S.C., Shaw, Z.M., S
 <br>
 **Chmielewski, M.W.**, Khatchikian, C., Livdahl, T. 2010 Estimating the per Capita Rate of Population Change: How Well Do Life-History Surrogates Perform? Annals of the Entomological Society of America 103(5): 734-741<br>
 <br>
-*In Review* <br>
+*In Revision* <br>
 <br>
 Prather, H., Casanova-Katny, A., Clements, A., **Chmielewski, M.W.**, Balkan, M., Shortlidge, E., Rosenstiel, T., Eppley, S.M. Species-specific effects of passive warming in an Antarctic moss system. Royal Society Open Science <br>
 
@@ -117,6 +117,7 @@ Prather, H., Casanova-Katny, A., Clements, A., **Chmielewski, M.W.**, Balkan, M.
 ------
 <h2>Academic Presentations:</h2>    
 ------
+**Chmielewski, M.W.** 2019 Metacommunity Structure of epiphytic bryophytes in fog-maintained patches of relict Valdivian forest in North-Central Chile. Annual Meeting of the Ecological Society of America. Louisville, KY.<br>
 
 **Chmielewski, M.W.** 2019 Metacommunity Structure of epiphytic bryophytes in fog-maintained patches of relict Valdivian forest in North-Central Chile. Annual Meeting of the Botanical Society of America. Tucson, AZ.<br>
 
