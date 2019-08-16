@@ -154,6 +154,9 @@ Prather, H., Casanova-Katny, A., Clements, A., **Chmielewski, M.W.**, Balkan, M.
 **What is it like to be a scientist?** Glencoe Elementary School. 2015. Portland, OR 
 
 **Abundancia, diversidad, y estructura de metacomunidades de briofitas** 2015. Parque Nacional Bosque Fray Jorge Ranger Station. Chile
+<br>
+<br>
+<br>
 
 ------
 <h2>Service and Outreach:</h2>
@@ -182,7 +185,7 @@ Prather, H., Casanova-Katny, A., Clements, A., **Chmielewski, M.W.**, Balkan, M.
 ------
 <h2>People Mentored</h2>   
 
-**Jessica Shamek:** PhD Student at Portland State University, Mcnair Scholar, NSF GRFP Recipient  
+**Jessica Shamek:** PhD Student at Portland State University, McNair Scholar, NSF GRFP Recipient  
 
 **Cammille Mitchell:** Field Technician with the Oregon Department of Fish and Wildlife   
 
