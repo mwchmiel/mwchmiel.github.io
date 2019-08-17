@@ -6,14 +6,14 @@ In order to enhance my abilities as teacher, I have completed a Certificate of I
 teaching practice that incorporates best practices in higher education, includes research-driven innovation, and addresses questions of equity and access within academia. 
 While working toward including these goals into my own practice, I have benefitted by attending workshops run by the Office of Academic Innovation, learned by applying methods in the
 classroom, and taking a full quarter course to better understanding the principle of scientific teaching. I have applied what I have learned to my courses, and have also reflected on 
-how this impacts how i approach teaching by incorporating them into my philosophies of teaching and equity and inclusion. 
+how this impacts how I approach teaching by incorporating them into my philosophies of teaching and equity and inclusion. 
 
 **Philosophy of Teaching and Learning**
 
 	
 The findings of a <a href = "https://www.aacu.org/sites/default/files/files/LEAP/2015employerstudentsurvey.pdf">study </a> commissioned by the Association of American Colleges and Universities regarding college learning and career success state (emphasis mine):
 
-“The majority of employers continue to say that possessing both field-specific knowledge and a broad range of knowledge and skills is important for recent college graduates to achieve long-term career success. Very few indicate that acquiring knowledge and skills mainly for a specific field or position is the best path for longterm success…The learning outcomes they rate as most important include **written and oral communication skills, teamwork skills, ethical decision-making, critical thinking, and the ability to apply knowledge in real-world settings.”**
+“The majority of employers continue to say that possessing both field-specific knowledge and a broad range of knowledge and skills is important for recent college graduates to achieve long-term career success. Very few indicate that acquiring knowledge and skills mainly for a specific field or position is the best path for long-term success…The learning outcomes they rate as most important include **written and oral communication skills, teamwork skills, ethical decision-making, critical thinking, and the ability to apply knowledge in real-world settings.”**
 
 I maintain that these are the same skills that make informed voters, engaged community members, and lead to a personally enriching life experience. Therefore, my teaching practice centers on using subject material in a manner that explicitly emphasizes skill growth in a number of key areas. 
 
@@ -65,7 +65,7 @@ I often hear people express that out of all of their coursework, undergraduate b
 the discipline is seen as largely comprised of the memorization of tedious facts for regurgitation on exams. This reflects a pedagogy that primarily engages in the lower levels of 
 <a href ="https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/">Bloom's Taxonomy of Educational Objectives </a> in asking students to remember and understand discipline-specific concepts. By 
 engaging higher order thinking, I ask students in my courses to regularly apply their knowledge and to analyze particular scenarios in the context of course objectives. In Human Anatomy and Physiology,
-one way I acheive this is by asking students to use their knowledge to analyze [case studies](/SkinandBone.pdf). In both Field Methods and Plant Ecology, students create knowledge by planning out field 
+one way I achieve this is by asking students to use their knowledge to analyze [case studies](/SkinandBone.pdf). In both Field Methods and Plant Ecology, students create knowledge by planning out field 
 sampling regimes, collecting data, and interpreting the data to produce data products and final, journal-style papers. 
 
 While these approaches have proven to be effective in eliciting more complex engagement with the course materials, I would like to improve upon them in future coursework in which I have more creative
@@ -78,20 +78,21 @@ resubmission step.
 **Assessment and Evaluation of Student Learning**<br>
 
 My approach to student assessment varies somewhat with relation to the objectives of the course, and tends to fall into one of two categories. In subject content-heavy courses (Human Anatomy and Physiology),
-I take an approach that involves multiple low-stakes formative assessments. Quizzes are modeled after practical questions, and are limited in their indiviudal impact on grades. Lab tickets are exit
+I take an approach that involves multiple low-stakes formative assessments. Quizzes are modeled after practical questions, and are limited in their individual impact on grades. Lab tickets are exit
 assessments that are worth a few points for completion, and allow students to leave the classroom with an understanding of how their personal knowledge relates to course objectives. This framework 
 serves a dual role in that it allows me to gauge gaps in effective information transfer, as well as gives students the opportunity to reflect on their progress in learning the material. These allow 
-me to address common misconceptions, and can also open a door to conversations about metacongitive concepts around personal learning style with individual students. These conversations frequently 
-result in a student and I indentifying additional study approaches that they can add to their educational repertoire. 
+me to address common misconceptions, and can also open a door to conversations about metacognitive concepts around personal learning style with individual students. These conversations frequently 
+result in a student and I identifying additional study approaches that they can add to their educational repertoire. 
 
 Summative assessments follow the format of formative assessments, but writ large. By covering a wide variety of course concepts, my summative assessments provide students with the opportunity
 to demonstrate knowledge drawn from many different course objectives. Alternately, in upper-division ecology courses (Plant Ecology, Field Methods), I typically run a project-based assessment model. 
-Here, formative assessment takes the form of group and invidividual work aimed at delineating the steps necessary toward producing a successful final product. Summative assessments involve student presentations
-as well as final papers that require students to engage with the higher levels of Bloom's Taxonomy in that they are producing original work reliant on data that they collect in the field. Students sumbit
-final research papers, which are then evaluated and returned to them. Follwing this, I encourage revision and resubmission, a process which not only provides students with the opportunity to examine areas 
+Here, formative assessment takes the form of group and individual work aimed at delineating the steps necessary toward producing a successful final product. Summative assessments involve student presentations
+as well as final papers that require students to engage with the higher levels of Bloom's Taxonomy in that they are producing original work reliant on data that they collect in the field. Students submit
+final research papers, which are then evaluated and returned to them. Following this, I encourage revision and resubmission, a process which not only provides students with the opportunity to examine areas 
 of personal improvement, but also directly reflects the manner in which scientists produce literature within their field. 
 
-Some examples of formative assessments include [quizzes](/A&P_quiz.pdf), [lab tickets](/A&P_ticket.pdf), and [data analysis asssingments](/PlantEcologyAssignment.pdf). <br>
+Some examples of formative assessments include [quizzes](/A&P_quiz.pdf), [lab tickets](/A&P_ticket.pdf), and [data analysis assignments](/PlantEcologyAssignment.pdf). <br>
+<br>
 Summative assessments include practicals, as well as [research papers](/PlantEcologyPaper.pdf). 
 
 **Assessment of My Teaching**<br>
