@@ -89,10 +89,12 @@ BI 473/573 Field Sampling (1 year)<br>
 **Clark University Graduate Fellowship** $28,000<br>  
 
 **Clark Achievement Grant** $32,000 <br>  
+
 <br>
 <br>
 <br>
-<br>
+
+
 ------
 <h2>Publications</h2>                                                                                                                                    
 ------
