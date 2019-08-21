@@ -23,15 +23,7 @@ B.A., Biology, Environmental Science and Policy 2004. **Clark University.** Worc
 ------
 <h2>Academic and Education Appointments</h2>                                                                                                                          
 ------
-**Visiting Assistant Professor.** 2019. Pacific Lutheran University. Parkland, WA
->Courses: <br>
-BIOL 116: Introductory Ecology <br>
-BIOL 205: Human Anatomy and Physiology I<br>
-BIOL 368: Ecology<br>
-
-<br>
-
-**Adjunct Professor.** 2018-2019. Portland Community College. Portland, OR <br>
+**Adjunct Professor.** 2018-current. Portland Community College. Portland, OR <br>
 >Courses Taught:<br>
 BI 231: Human Anatomy and Physiology I Lecture & Lab **Instructor of Record**<br>
 BI 232: Human Anatomy and Physiology II Lab<br>
@@ -39,7 +31,7 @@ BI 233: Human Anatomy and Physiology III Lab<br>
 
 <br>
 
-**Teaching Assistant.** 2011-2019. Portland State University. Portland, OR <br>
+**Teaching Assistant.** 2011-current. Portland State University. Portland, OR <br>
 	
 >Courses Taught: 	<br>
 BI 204 Fundamentals of Biology I Lab (2 years)<br>
