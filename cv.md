@@ -89,7 +89,10 @@ BI 473/573 Field Sampling (1 year)<br>
 **Clark University Graduate Fellowship** $28,000<br>  
 
 **Clark Achievement Grant** $32,000 <br>  
-
+<br>
+<br>
+<br>
+<br>
 ------
 <h2>Publications</h2>                                                                                                                                    
 ------
@@ -162,15 +165,7 @@ Prather, H., Casanova-Katny, A., Clements, A., **Chmielewski, M.W.**, Balkan, M.
 **What is it like to be a scientist?** Glencoe Elementary School. 2015. Portland, OR 
 
 **Abundancia, diversidad, y estructura de metacomunidades de briofitas** 2015. Parque Nacional Bosque Fray Jorge Ranger Station. Chile
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 ------
 <h2>Service and Outreach:</h2>
