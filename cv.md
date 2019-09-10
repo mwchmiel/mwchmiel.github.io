@@ -39,7 +39,7 @@ BI 233: Human Anatomy and Physiology III Lab<br>
 
 <br>
 
-**Teaching Assistant.** 2011-current. Portland State University. Portland, OR <br>
+**Teaching Assistant.** 2011-2019. Portland State University. Portland, OR <br>
 	
 >Courses Taught: 	<br>
 BI 204 Fundamentals of Biology I Lab (2 years)<br>
