@@ -31,7 +31,7 @@ BIOL 368: Ecology<br>
 
 <br>
 
-**Adjunct Professor.** 2018-current. Portland Community College. Portland, OR <br>
+**Adjunct Professor.** 2018-2019. Portland Community College. Portland, OR <br>
 >Courses Taught:<br>
 BI 231: Human Anatomy and Physiology I Lecture & Lab **Instructor of Record**<br>
 BI 232: Human Anatomy and Physiology II Lab<br>
@@ -107,7 +107,7 @@ Eppley, S.M., Rosenstiel, T.N., **Chmielewski, M.W.**, Woll, S.C., Shaw, Z.M., S
 <br>
 **Chmielewski, M.W.**, Khatchikian, C., Livdahl, T. 2010 Estimating the per Capita Rate of Population Change: How Well Do Life-History Surrogates Perform? Annals of the Entomological Society of America 103(5): 734-741<br>
 <br>
-*In Revision* <br>
+*In Review* <br>
 <br>
 Prather, H., Casanova-Katny, A., Clements, A., **Chmielewski, M.W.**, Balkan, M., Shortlidge, E., Rosenstiel, T., Eppley, S.M. Species-specific effects of passive warming in an Antarctic moss system. Royal Society Open Science <br>
 
