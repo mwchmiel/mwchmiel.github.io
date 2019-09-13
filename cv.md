@@ -2,17 +2,17 @@
 ------
 <h2>Matthew W. Chmielewski, Ph.D.</h2>
 ------   
-**Portland State University Department of Biology**<br>
-**Center for Life in Extreme Environments**<br>
-**1719 SW 10th Avenue Room 246, Portland, OR 97201**<br>
+**Pacific Lutheran University Department of Biology**<br>
+**Rieke Science Center, Room 159 Tacoma, WA 98447**<br>
 **phone: (774) 249-0210**<br>
-**email: chmiel@pdx.edu**<br>
+**email: mwc@plu.edu**<br>
 **website: mwchmiel.github.io**<br>
 
 ------
 <h2>Education</h2>
 ------                                                                                                                                                     
 Ph.D., Biology 2019. **Portland State University.** Portland, OR.<br>
+>Dissertation Title: Avian Dispersal Networks, Metacommunity Structure, and Bryophyte Community Assemblages
 
 Certificate of Innovation in College Teaching 2019. **Portland State University**. Portland, OR. 
 
@@ -23,7 +23,7 @@ B.A., Biology, Environmental Science and Policy 2004. **Clark University.** Worc
 ------
 <h2>Academic and Education Appointments</h2>                                                                                                                          
 ------
-**Visiting Assistant Professor.** 2019. Pacific Lutheran University. Parkland, WA.<br>
+**Visiting Assistant Professor.** 2019-current. Pacific Lutheran University. Parkland, WA.<br>
 >Courses:<br>
 BIOL 116: Introductory Ecology <br>
 BIOL 205: Human Anatomy and Physiology I<br>
@@ -70,25 +70,25 @@ BI 473/573 Field Sampling (1 year)<br>
 <h2>Grants and Awards</h2>                                                                                                                
 ------
 
-**Boone Teaching Assistant Award** $100 <br>  
+**Boone Teaching Assistant Award** 2018. $100 <br>  
 
-**NSF Doctoral Dissertation Improvement Grant** $19,304<br>  
+**NSF Doctoral Dissertation Improvement Grant** 2017. $19,304<br>  
 
-**Botanical Society of America Student Research Award** $500<br>  
+**Botanical Society of America Student Research Award** 2016. $500<br>  
 
-**Portland State University Student Education Travel Grant** $500<br>  
+**Portland State University Student Education Travel Grant** 2016. $500<br>  
 
-**Partner of Americas Travel Award** $1,000<br>  
+**Partner of Americas Travel Award** 2015. $1,000<br>  
 
-**Fulbright Student Award** $16,000<br>  
+**Fulbright Student Award** 2015. $16,000<br>  
 
-**Portland State University Forbes Lea Research Scholarship** $800<br>  
+**Portland State University Forbes Lea Research Scholarship** 2013. $800<br>  
 
-**American Bryological and Lichenological Society Anderson and Crum Award** $500<br>  
+**American Bryological and Lichenological Society Anderson and Crum Award** 2013. $500<br>  
 
-**Clark University Graduate Fellowship** $28,000<br>  
+**Clark University Graduate Fellowship** 2004. $28,000<br>  
 
-**Clark Achievement Grant** $32,000 <br>  
+**Clark Achievement Grant** 2000. $32,000 <br>  
 
 <br>
 <br>
