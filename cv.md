@@ -179,6 +179,7 @@ Prather, H., Casanova-Katny, A., Clements, A., **Chmielewski, M.W.**, Balkan, M.
 ------
 <h2>Service and Outreach:</h2>
 ------
+**Peer Reviewer:** *Journal of Ecology*, *Austral Ecology*, *New Phytologist*
 
 **Contributing Writer: Graduate Student Handbook.** 2018. Office of Academic Innovation. Portland State University. Portland, OR 
 
@@ -202,6 +203,7 @@ Prather, H., Casanova-Katny, A., Clements, A., **Chmielewski, M.W.**, Balkan, M.
 
 ------
 <h2>People Mentored</h2>   
+------
 
 **Jessica Shamek:** PhD Student at Portland State University, McNair Scholar, NSF GRFP Recipient  
 
