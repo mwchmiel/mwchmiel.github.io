@@ -95,7 +95,6 @@ BI 473/573 Field Sampling (1 year)<br>
 <br>
 <br>
 <br>
-<br>
 
 ------
 <h2>Publications</h2>                                                                                                                                    
