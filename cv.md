@@ -178,7 +178,7 @@ Prather, H., Casanova-Katny, A., Clements, A., **Chmielewski, M.W.**, Balkan, M.
 ------
 <h2>Service and Outreach:</h2>
 ------
-**Peer Reviewer:** 2019. *Journal of Ecology*, *Austral Ecology*, *New Phytologist*
+**Peer Reviewer:** *Journal of Ecology*, *Austral Ecology*, *New Phytologist*
 
 **Contributing Writer: Graduate Student Handbook.** 2018. Office of Academic Innovation. Portland State University. Portland, OR 
 
