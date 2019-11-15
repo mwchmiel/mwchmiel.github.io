@@ -99,16 +99,15 @@ BI 473/573 Field Sampling (1 year)<br>
 <h2>Publications</h2>                                                                                                                                    
 ------
 
+Prather, H., Casanova-Katny, A., Clements, A., **Chmielewski, M.W.**, Balkan, M., Shortlidge, E., Rosenstiel, T., Eppley, S.M. Species-specific effects of passive warming in an Antarctic moss system. Royal Society Open Science. 6(11): 190744 <br>
+<br>
 **Chmielewski, M.W.**, Eppley, S.M. 2019 Forest passerines as a novel dispersal vector of viable bryophyte propagules. Proceedings of the Royal Academy of Sciences B. 286(1897)<br>
 <br>
 Eppley, S.M., Rosenstiel, T.N., **Chmielewski, M.W.**, Woll, S.C., Shaw, Z.M., Shortlidge, E.E. 2018. Rapid population sex ratio changes in the moss *Ceratodon purpureus*. American Journal of Botany. 105(7): 1232-1238 <br>
 <br>
 **Chmielewski, M.W.**, Khatchikian, C., Livdahl, T. 2010 Estimating the per Capita Rate of Population Change: How Well Do Life-History Surrogates Perform? Annals of the Entomological Society of America 103(5): 734-741<br>
 <br>
-*Accepted* <br>
-<br>
-Prather, H., Casanova-Katny, A., Clements, A., **Chmielewski, M.W.**, Balkan, M., Shortlidge, E., Rosenstiel, T., Eppley, S.M. Species-specific effects of passive warming in an Antarctic moss system. Royal Society Open Science <br>
-<br>
+
 *In Preparation*<br>
 <br>
 **Chmielewski, M.W.**, Eppley, S.M. Species-specific interactions in avian-bryophyte dispersal networks. Target: Royal Society Open Science. <br>
