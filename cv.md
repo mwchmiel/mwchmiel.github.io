@@ -158,6 +158,7 @@ Eppley, S.M., Rosenstiel, T.N., **Chmielewski, M.W.**, Woll, S.C., Shaw, Z.M., S
 ------
 <h2>Invited Talks:</h2>  
 ------
+**Animal-Mediated Dispersal of Bryophytes** 2019. Portland State University. Portland, OR
 
 **Avian Dispersal Networks and Metacommunity Structure in Bryophyte Assemblages** 2019. Reed College. Portland, OR
 
