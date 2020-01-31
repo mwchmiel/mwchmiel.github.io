@@ -33,7 +33,7 @@ BIOL 368: Ecology<br>
 
 **Adjunct Professor.** 2018-2019. Portland Community College. Portland, OR <br>
 >Courses Taught:<br>
-BI 231: Human Anatomy and Physiology I Lecture & Lab **Instructor of Record**<br>
+BI 231: Human Anatomy and Physiology I Lecture & Lab<br>
 BI 232: Human Anatomy and Physiology II Lab<br>
 BI 233: Human Anatomy and Physiology III Lab<br>
 
