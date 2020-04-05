@@ -38,6 +38,8 @@ BI 232: Human Anatomy and Physiology II Lab<br>
 BI 233: Human Anatomy and Physiology III Lab<br>
 
 <br>
+<br>
+<br>
 
 **Teaching Assistant.** 2011-2019. Portland State University. Portland, OR <br>
 	
@@ -92,9 +94,7 @@ BI 473/573 Field Sampling (1 year)<br>
 
 <br>
 <br>
-<br>
-<br>
-<br>
+
 ------
 <h2>Publications</h2>                                                                                                                                    
 ------
@@ -108,10 +108,14 @@ Eppley, S.M., Rosenstiel, T.N., **Chmielewski, M.W.**, Woll, S.C., Shaw, Z.M., S
 **Chmielewski, M.W.**, Khatchikian, C., Livdahl, T. 2010 Estimating the per Capita Rate of Population Change: How Well Do Life-History Surrogates Perform? Annals of the Entomological Society of America 103(5): 734-741<br>
 <br>
 
-*In Preparation*<br>
+*Submitted*
 <br>
 **Chmielewski, M.W.**, Eppley, S.M. Species-specific interactions in avian-bryophyte dispersal networks. Target: Royal Society Open Science. <br>
 <br>
+
+*In Preparation*<br>
+<br>
+
 **Chmielewski, M.W.**, Eppley, S.M. Metacommunity structure of epiphytic bryophytes in fog-maintained patches of relict Valdivian forest of north-central Chile. Target: Oikos <br>
 <br>
 ------
