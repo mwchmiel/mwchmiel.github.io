@@ -110,7 +110,7 @@ Eppley, S.M., Rosenstiel, T.N., **Chmielewski, M.W.**, Woll, S.C., Shaw, Z.M., S
 
 *Submitted*
 <br>
-**Chmielewski, M.W.**, Eppley, S.M. Species-specific interactions in avian-bryophyte dispersal networks. Target: Royal Society Open Science. <br>
+**Chmielewski, M.W.**, Eppley, S.M. Species-specific interactions in avian-bryophyte dispersal networks. Royal Society Open Science. <br>
 <br>
 
 *In Preparation*<br>
