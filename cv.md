@@ -40,7 +40,7 @@ BI 233: Human Anatomy and Physiology III Lab<br>
 <br>
 <br>
 <br>
-
+<br>
 **Teaching Assistant.** 2011-2019. Portland State University. Portland, OR <br>
 	
 >Courses Taught: 	<br>
@@ -117,7 +117,7 @@ Eppley, S.M., Rosenstiel, T.N., **Chmielewski, M.W.**, Woll, S.C., Shaw, Z.M., S
 <br>
 
 **Chmielewski, M.W.**, Eppley, S.M. Metacommunity structure of epiphytic bryophytes in fog-maintained patches of relict Valdivian forest of north-central Chile. Target: Oikos <br>
-<br>
+
 ------
 <h2>Research Appointments</h2>                                                                                                                                                  
 ------
