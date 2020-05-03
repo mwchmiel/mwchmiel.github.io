@@ -184,7 +184,7 @@ Eppley, S.M., Rosenstiel, T.N., **Chmielewski, M.W.**, Woll, S.C., Shaw, Z.M., S
 ------
 **Undergraduate Science Writing Assessment Committee.** 2019. Department of Biology. Pacific Lutheran University. Parkland, WA
 
-**Peer Reviewer:** *Journal of Ecology*, *Austral Ecology (2)*, *New Phytologist*
+**Reviewer:** *Journal of Ecology (2)*, *Austral Ecology (2)*, *New Phytologist(2)*
 
 **Contributing Writer: Graduate Student Handbook.** 2018. Office of Academic Innovation. Portland State University. Portland, OR 
 
