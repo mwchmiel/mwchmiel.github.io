@@ -2,10 +2,8 @@
 ------
 <h2>Matthew W. Chmielewski, Ph.D.</h2>
 ------   
-**Pacific Lutheran University Department of Biology**<br>
-**Rieke Science Center, Room 159 Tacoma, WA 98447**<br>
 **phone: (774) 249-0210**<br>
-**email: mwc@plu.edu**<br>
+**email: mwchmielewski@gmail.com**<br>
 **website: mwchmiel.github.io**<br>
 
 ------
@@ -23,8 +21,8 @@ B.A., Biology, Environmental Science and Policy 2004. **Clark University.** Worc
 ------
 <h2>Academic and Education Appointments</h2>                                                                                                                          
 ------
-**Visiting Assistant Professor.** 2019-current. Pacific Lutheran University. Parkland, WA.<br>
->Courses:<br>
+**Visiting Assistant Professor.** 2019-2020. Pacific Lutheran University. Parkland, WA.<br>
+>Courses Taught:<br>
 BIOL 116: Introductory Ecology <br>
 BIOL 205: Human Anatomy and Physiology I<br>
 BIOL 368: Ecology<br>
