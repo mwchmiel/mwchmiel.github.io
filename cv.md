@@ -207,7 +207,7 @@ Eppley, S.M., Rosenstiel, T.N., **Chmielewski, M.W.**, Woll, S.C., Shaw, Z.M., S
 ------
 <h2>Students Mentored</h2>   
 ------
-*Cassie Wilkins** Capstone Title: Red Wolves: Population Decline and Biological and Social Barriers to Repopulation
+**Cassie Wilkins** Capstone Title: Red Wolves: Population Decline and Biological and Social Barriers to Repopulation
 
 **Katya Davidson** 
 
