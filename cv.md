@@ -205,8 +205,11 @@ Eppley, S.M., Rosenstiel, T.N., **Chmielewski, M.W.**, Woll, S.C., Shaw, Z.M., S
 **Nonprofit Ecological Reserve Manager & Anti-poacher.** 2006 Aula Global Reserve. Monteverde/Santa Elena. Costa Rica.
 
 ------
-<h2>People Mentored</h2>   
+<h2>Students Mentored</h2>   
 ------
+*Cassie Wilkins** Capstone Title: Red Wolves: Population Decline and Biological and Social Barriers to Repopulation
+
+**Katya Davidson** 
 
 **Jessica Shamek:** PhD Student at Portland State University, McNair Scholar, NSF GRFP Recipient  
 
@@ -216,11 +219,11 @@ Eppley, S.M., Rosenstiel, T.N., **Chmielewski, M.W.**, Woll, S.C., Shaw, Z.M., S
 
 **Sara Herrejon Chavez:** Louis Stokes Alliance for Minority Participation, NIH BUILD EXITO Scholar, NSF REU Student   
 
-**Katya Davidson** current Postbac student
+**Ellen Staples** Doctor of Veterinary Medicine, University of Florida
 
 **Samantha Martin**   
 
-**Jenn Groody**   
+**Jenn Groody** Veterinary Technician
 
 **Jake Bevis**
 
