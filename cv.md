@@ -105,7 +105,7 @@ Eppley, S.M., Rosenstiel, T.N., **Chmielewski, M.W.**, Woll, S.C., Shaw, Z.M., S
 <br>
 **Chmielewski, M.W.**, Khatchikian, C., Livdahl, T. 2010 Estimating the per Capita Rate of Population Change: How Well Do Life-History Surrogates Perform? Annals of the Entomological Society of America 103(5): 734-741<br>
 
-*Submitted*
+*In Review*
 <br>
 
 **Chmielewski, M.W.**, Eppley, S.M. Species-specific interactions in avian-bryophyte dispersal networks. Royal Society Open Science. <br>
