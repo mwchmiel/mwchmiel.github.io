@@ -5,7 +5,7 @@ layout: default
 I'm a community ecologist focused on understanding how spatial processes influence community assembly, diversity, and function. 
 I focus on theory-driven questions which i address through a variety of approaches that include strong field work and natural history components. I completed my disseration
 studying avian-bryophyte dispersal networks in the <a href="http://pdx.edu/biology">Department of Biology</a> at Portland State University. I have also worked on bryophyte ecology 
-in extreme environments in association with the <a href="https://www.pdx.edu/extreme-environments/">Center for Life in Extreme Environments</a>. .** 
+in extreme environments in association with the <a href="https://www.pdx.edu/extreme-environments/">Center for Life in Extreme Environments</a>. 
 
 ![](/images/biter.jpg)
 
