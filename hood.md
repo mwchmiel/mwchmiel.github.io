@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h2>The Grand Mt. Hood Bird Survey</h2>
+**The Grand Mt. Hood Bird Survey**
 
 *Monitoring Climate Change With Community Science*
 
