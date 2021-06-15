@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 ------
 <h2>Matthew W. Chmielewski, Ph.D.</h2>
