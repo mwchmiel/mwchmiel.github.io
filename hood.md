@@ -10,7 +10,7 @@ Earth is getting hotter. Species that live along mountain slopes have the option
 
 Here’s where you come into the picture. Summer is a great time to get out into the cool Pacific Northwest forests to enjoy the songs and bright colors of our breeding birds. Spending an early morning going birding is a delight, and even better when you are contributing to a birder-led effort to understand how climate change might affect our local birdlife.
 
-How to participate? It’s easy as 1-2-3
+How to participate? It’s easy as 1 2 3
 
 1.	Go birding on Mt. Hood this summer
 2.	Count the birds you see and hear 
