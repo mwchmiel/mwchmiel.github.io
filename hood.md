@@ -6,4 +6,4 @@ layout: default
 
 *Monitoring Climate Change With Community Science*
 
-Earth is getting hotter. 
+Earth is getting hotter. Species that live along mountain slopes have the option of shifting their ranges to cooler high elevations. In some places, these upslope shifts have set in motion an
