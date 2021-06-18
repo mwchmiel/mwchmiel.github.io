@@ -30,6 +30,8 @@ Between sunrise and 10am on any day without rain between June 1 and July 15. Thi
 
 Stand in one place for five minutes and record all birds that you see or hear within 50 meters of where you are standing and add them to an eBird checklist. Viola, you've completed a point count! Now do the same thing again: keep standing in the same spot for another five minutes, and record all birds as a second point count (added to a second checklist) at the exact same location. Continue your walk/hike/drive and complete additional paired point counts as you go. 
 
+If you want to be able to submit a full eBird checklist, you can simply add the close-by birds to your list, share with MountainBirdNetwork, then edit the list to add additional distant birds (distant ravens, etc.). 
+
 Note that all point count sites should be at least 150 m apart from one another, to ensure that each sample is counting the birds at a distinct location. We are particularly interested in capturing birds at different elevations, so you would ideally move across various elevations during your trip if you are able. Once you have completed your counts, share them with MountainBirdNetwork, the eBird account we have created to manage this project. 
 
 **Why point counts, and why repeat them at each location?** 
