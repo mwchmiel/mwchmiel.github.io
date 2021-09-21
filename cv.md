@@ -24,6 +24,19 @@ B.A., Biology, Environmental Science and Policy 2004. **Clark University.** Worc
 ------
 <h2>Academic and Education Appointments</h2>                                                                                                                          
 ------
+**Postdoctoral Fellow** 01 May 2021 - Present. Temple University. Philadelphia, PA.
+
+- Conducted independent research and the network ecology and conservation of a threatened species of butterfly, Speyeria idalia
+- Advised graduate students on analytical aspects of network ecology
+- Developed R coding workflows, network analytics, statistical results, and manuscripts for publication
+
+**Adjunct Assistant Professor** 15 Sep 2020 - 15 Dec 2020. Portland State University. Portland, OR. 
+
+>Courses Taught:\
+Urban Ecology
+
+- Taught ecology through the lens of urban wildlife, with a focus on migratory birds
+
 **Visiting Assistant Professor.** 2019-2020. Pacific Lutheran University. Parkland, WA.<br>
 >Courses Taught:<br>
 BIOL 116: Introductory Ecology <br>
@@ -108,7 +121,7 @@ Eppley, S.M., Rosenstiel, T.N., **Chmielewski, M.W.**, Woll, S.C., Shaw, Z.M., S
 <br>
 **Chmielewski, M.W.**, Khatchikian, C., Livdahl, T. 2010 Estimating the per Capita Rate of Population Change: How Well Do Life-History Surrogates Perform? Annals of the Entomological Society of America 103(5): 734-741<br>
 
-*In Review*
+*Submitted/In Review*
 <br>
 
 **Chmielewski, M.W.**, Eppley, S.M. Species-specific interactions in avian-bryophyte dispersal networks. Royal Society Open Science. <br>
@@ -163,6 +176,8 @@ Eppley, S.M., Rosenstiel, T.N., **Chmielewski, M.W.**, Woll, S.C., Shaw, Z.M., S
 ------
 <h2>Invited Talks:</h2>  
 ------
+**Avian-Bryophyte interaction networks: insights from an ornithological approach to bryophyte ecology** 2021. Annual Meeting of the Ecology Society of America. Online. 
+
 **Animal-Mediated Dispersal of Bryophytes** 2019. Portland State University. Portland, OR
 
 **Avian Dispersal Networks and Metacommunity Structure in Bryophyte Assemblages** 2019. Reed College. Portland, OR
