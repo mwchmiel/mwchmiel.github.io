@@ -121,7 +121,7 @@ Eppley, S.M., Rosenstiel, T.N., **Chmielewski, M.W.**, Woll, S.C., Shaw, Z.M., S
 <br>
 **Chmielewski, M.W.**, Khatchikian, C., Livdahl, T. 2010 Estimating the per Capita Rate of Population Change: How Well Do Life-History Surrogates Perform? Annals of the Entomological Society of America 103(5): 734-741<br>
 
-*Submitted/In Review*
+*In Press*
 <br>
 
 **Chmielewski, M.W.**, Eppley, S.M. Species-specific interactions in avian-bryophyte dispersal networks. Royal Society Open Science. <br>
@@ -130,7 +130,7 @@ Eppley, S.M., Rosenstiel, T.N., **Chmielewski, M.W.**, Woll, S.C., Shaw, Z.M., S
 *In Preparation*
 <br>
 
-**Chmielewski, M.W.**, Eppley, S.M. Metacommunity structure of epiphytic bryophytes in fog-maintained patches of relict Valdivian forest of north-central Chile. Target: Oikos <br>
+**Chmielewski, M.W.**, Naya, S.E., Sewall, B., Swartz, M., Borghi, M., Spigler, R. 21 years of Sex-Specific Foraging Behavior of the Regal Frittilary (*Speyeria idalia*).<br>
 
 ------
 <h2>Research Appointments</h2>                                                                                                                                                  
