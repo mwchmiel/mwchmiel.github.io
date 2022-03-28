@@ -112,7 +112,7 @@ BI 473/573 Field Sampling (1 year)<br>
 ------
 <h2>Publications</h2>                                                                                                                                    
 ------
-**Chmielewski, M.W.**, 2022 Eppley, S.M. Species-specific interactions in avian-bryophyte dispersal networks. Royal Society Open Science. https://doi.org/10.1098/rsos.211230<br>
+**Chmielewski, M.W.**, 2022 Eppley, S.M. Species-specific interactions in avian-bryophyte dispersal networks. Royal Society Open Science. 9:211230. 211230. https://doi.org/10.1098/rsos.211230<br>
 <br>
 Prather, H., Casanova-Katny, A., Clements, A., **Chmielewski, M.W.**, Balkan, M., Shortlidge, E., Rosenstiel, T., Eppley, S.M. 2019. Species-specific effects of passive warming in an Antarctic moss system. Royal Society Open Science. 6(11): 190744<br>
 <br>
