@@ -26,10 +26,6 @@ B.A., Biology, Environmental Science and Policy 2004. **Clark University.** Worc
 ------
 **Postdoctoral Fellow** 01 May 2021 - Present. Temple University. Philadelphia, PA.
 
-- Conducted independent research and the network ecology and conservation of a threatened species of butterfly, Speyeria idalia
-- Advised graduate students on analytical aspects of network ecology
-- Developed R coding workflows, network analytics, statistical results, and manuscripts for publication
-
 **Adjunct Assistant Professor** 15 Sep 2020 - 15 Dec 2020. Portland State University. Portland, OR. 
 
 >Courses Taught:\
@@ -122,10 +118,10 @@ Eppley, S.M., Rosenstiel, T.N., **Chmielewski, M.W.**, Woll, S.C., Shaw, Z.M., S
 <br>
 **Chmielewski, M.W.**, Khatchikian, C., Livdahl, T. 2010 Estimating the per Capita Rate of Population Change: How Well Do Life-History Surrogates Perform? Annals of the Entomological Society of America 103(5): 734-741<br>
 
-*In Preparation*
+*In Review*
 <br>
 
-**Chmielewski, M.W.**, Naya, S.E., Borghi, M., Cortese, J., Fernie, A.R., Swartz, M.T., Zografou, K., Sewall, B.J., SPigler, R.B. Phenology and nectar chemistry contribute to sex-specific foraging patterns in the rare declining butterfly *Speyeria idalia idalia*.<br>
+**Chmielewski, M.W.**, Naya, S.E., Borghi, M., Cortese, J., Fernie, A.R., Swartz, M.T., Zografou, K., Sewall, B.J., Spigler, R.B. Phenology and nectar chemistry contribute to sex-specific foraging patterns in the rare declining butterfly *Speyeria idalia idalia*.<br>
 
 ------
 <h2>Research Appointments</h2>                                                                                                                                                  
